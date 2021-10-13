@@ -2,7 +2,7 @@
 My name is Daniel Hong, and I am a Full-Stack Web Developer. I stumbled into the coding world relatively recently and to further my own skills, I attended a bootcamp called LearningFuze. During and after completion of the camp, I realized that I love to solve problems. The feelings of figuring out a problem or a bug after spending hours or days on it is probably one of the greatest feelings of accomplishments for me. I hope to continue to have those feelings as I further elevate my skills as a coder. When I am not coding, I spend most of my time watching sports, playing games, eating food with friends, reading, and working out at the gym.
 
 ✨ Fun Facts! 
-- I've been 10 different countries (11 if you count all the states I've been to): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic, Mexico, The Dominican Repulic, Peru, and about 10 different states
+- I've been to 10 different countries (11 if you count all the states I've been to): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic, Mexico, The Dominican Repulic, Peru, and about 10 different states
 - I do jiu-jitsu!
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sj-hong&theme=dracula&show_icons=true) 
