@@ -4,6 +4,7 @@ My name is Daniel Hong, and I am a Full-Stack Web Developer. I stumbled into the
 ✨ Fun Facts! 
 - I've been to 10 different countries (11 if you count all the states I've been to): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic, Mexico, The Dominican Repulic, Peru, and about 10 different states
 - I do jiu-jitsu!
+- My teams are Dodgers, Lakers, Rams, and Manchester United
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sj-hong&theme=dracula&show_icons=true) 
 
