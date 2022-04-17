@@ -9,7 +9,7 @@ My name is Daniel Hong, and I am a Full-Stack Web Developer. I stumbled into the
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sj-hong&theme=dracula&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sj-hong&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sj-hong&&theme=dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies
