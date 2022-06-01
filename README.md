@@ -1,4 +1,4 @@
-# Hi there! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"></a>
+# Hi there!
 My name is Daniel Hong, and I am a Full-Stack Web Developer. I stumbled into the coding world relatively recently and to further my own skills, I attended a bootcamp called LearningFuze. During and after completion of the camp, I realized that I love to solve problems. The feelings of figuring out a problem or a bug after spending hours or days on it is probably one of the greatest feelings of accomplishments for me. I hope to continue to have those feelings as I further elevate my skills as a coder. When I am not coding, I spend most of my time watching sports, playing games, eating food with friends, reading, and working out at the gym.
 
 ✨ Fun Facts! 
