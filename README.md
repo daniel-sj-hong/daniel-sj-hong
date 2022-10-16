@@ -1,5 +1,5 @@
 # Hi there!
-My name is Daniel Hong, and I am a Frontend Engineer/Developer. I stumbled into the coding world relatively recently and to further my own skills, I attended a bootcamp called LearningFuze. Shortly after I found myself at a small startup called Tayls where I worked as a Junior Frontend Engineer utlizing React.js and during my time at Tayls, I enrolled into an internship called The Collab Lab as a Software Engineer so I could get a bit more exposure to what it's like being a Software Engineer. 
+My name is Daniel Hong, and I am a coding bootcamp grad! I stumbled into the coding world relatively recently and to further my own skills, I attended a bootcamp called LearningFuze. I'm primarily frontend focused utlizing React.js but I do have full stack experience/knowledge. Looking for support engineering, customer success engineering, or frontend engineer/developer roles!
 
 ✨ Fun Facts! 
 - I've been to 10 different countries (11 if you count all the states I've been to): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic (<-- that's me in Prague!), Mexico, The Dominican Repulic, Peru, and about 10 different states
