@@ -1,10 +1,12 @@
 # Hi there!
-My name is Daniel Hong, and I am a coding bootcamp grad! I stumbled into the coding world relatively recently and to further my own skills, I attended a bootcamp called LearningFuze. I'm primarily frontend focused utlizing React.js but I do have full stack experience/knowledge. Looking for support engineering, customer success engineering, or frontend engineer/developer roles!
+My name is Daniel Hong, and I am a coding bootcamp grad and currently working at Yardi as an Associate Technical Account Manager! I stumbled into the coding world completely by chance and to further my own skills, I attended a bootcamp called LearningFuze. I'm primarily frontend focused utlizing React.js but I do have full stack experience/knowledge.
+
+If you're a LFZ grad reading this, or even if you're not, HMU! I would love to refer you if possible and let you know about Yardi's awesome work culture. 
 
 ✨ Fun Facts! 
-- I've been to 10 different countries (11 if you count all the states I've been to): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic (<-- that's me in Prague!), Mexico, The Dominican Repulic, Peru, and about 10 different states
-- I do jiu-jitsu!
-- My teams are Dodgers, Lakers, Rams, and Manchester United
+- I've been to 10 different countries (11 if you count all the traveling I did in the states): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic (the picture you see of of me on the left is me in Prague!), Mexico, The Dominican Repulic, Peru, and 12 different states (CA, AZ, NV, WA, ID, UT, WY, IL, NY, TX, GA, NC)
+- I used to do jiu-jitsu! ...But I seriously injured my knee and had to get it surgically repaired. However, I'm all better now and I want to get back into it, but I'm wondering if I should make the switch to boxing since it would be easier on the knees...
+- Avid LA sports fans. My teams are Dodgers, Lakers, Rams, and Manchester United
 - Very noobie surfer and love snowboarding during the winter
 
 ![Daniel's gitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-sj-hong&theme=dracula&show_icons=true) 
