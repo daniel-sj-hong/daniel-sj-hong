@@ -1,5 +1,5 @@
 # Hi there!
-My name is Daniel Hong, and I am a coding bootcamp grad and currently working at Yardi as an Associate Technical Account Manager! I stumbled into the coding world completely by chance and to further my own skills, I attended a bootcamp called LearningFuze. I'm primarily frontend focused utlizing React.js but I do have full stack experience/knowledge.
+My name is Daniel Hong, and I am a coding bootcamp grad and currently working at Yardi as an Associate Technical Account Manager! I stumbled into the coding world completely by chance and to further my own skills, I attended a bootcamp called LearningFuze. I'm primarily frontend focused by mostly playing around with CSS, but I dabble in React.js sometimes and I do have full stack experience/knowledge.
 
 ✨ Fun Facts! 
 - I've been to 10 different countries (11 if you count all the traveling I did in the states): South Korea, Thailand, Greece, Hungary, Poland, Switzerland, Czech Republic (the picture you see of of me on the left is me in Prague!), Mexico, The Dominican Repulic, Peru, and 12 different states (CA, AZ, NV, WA, ID, UT, WY, IL, NY, TX, GA, NC)
